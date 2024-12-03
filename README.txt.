@@ -17,4 +17,4 @@ GitHub Repository:
 git@github.com:sdhaliwal-1/A4_dhal0108.git
 
 Docker Hub Image:
-docker pull dhal0108/textbasedgame:latest
+https://hub.docker.com/repository/docker/dhal0108/textbasedgame/general
